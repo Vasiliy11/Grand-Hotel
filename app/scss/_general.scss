@@ -8,3 +8,29 @@ body {
     padding: 0;
     font-family: 'Montserrat', sans-serif;
 }
+
+.common-header{
+    padding: 5rem;
+    text-align: center;
+    color: #b85d1c;
+}
+
+.common-heading{
+    font-size: 4rem;
+    font-weight: 300;
+    letter-spacing: 0.2rem;
+}
+
+.small-underline{
+    width: 9rem;
+    height: 0.1rem;
+    background-color: #b85d1c;
+    margin: 0 auto 1rem;
+}
+
+.big-underline{
+    width: 20rem;
+    height: 0.1rem;
+    margin: auto;
+    background-color: #b85d1c;
+}
